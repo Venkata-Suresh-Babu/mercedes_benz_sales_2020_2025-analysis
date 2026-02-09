@@ -34,13 +34,20 @@ E-Class
 Black and white body colors are major share. 
 <img width="442" height="427" alt="image" src="https://github.com/user-attachments/assets/01b15628-b3de-4f8d-b9ba-da79604b90b6" />
 
+<img width="342" height="385" alt="car colors values" src="https://github.com/user-attachments/assets/0a8e67ab-6c94-467c-9622-45908ccd0c30" />
+
+
 **Avg. price as per model**
 
 <img width="876" height="524" alt="image" src="https://github.com/user-attachments/assets/e14cc9fa-97c8-4c04-97d0-b732161bfe0a" />
 
+<img width="353" height="612" alt="Avg  price of a model values" src="https://github.com/user-attachments/assets/483a6731-7ea9-46a1-bf5c-99f3b1afb03f" />
+
+
 
 **Sales trend**
 <img width="1233" height="470" alt="image" src="https://github.com/user-attachments/assets/ec9549b1-112a-4378-8946-19762fa9f823" />
+
 In 2023 and 2024 was recorded highest sales.
 
 **Revenue by model**
@@ -70,9 +77,8 @@ here balck color is on top and follows by Blue and Orange
 **Model-wise sales per year 2020 - 2025**
 <img width="1100" height="700" alt="Model-wise sales per year 2020 - 2025" src="https://github.com/user-attachments/assets/9ab46bf6-b851-4436-a537-6506668321d3" />
 
-every year GLC model is on the top. 
 
-
+every year GLC model is on the top selling. 
 
 **......Thank you......**
 
