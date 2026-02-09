@@ -14,7 +14,7 @@
 Using panads accessed the csv file 
 performed data cleaning using pandas, removed duplicates and null values
 
-**Dataset size: **
+**Dataset size:**
 **rows:** 12129513
 **Columns** 9
 
