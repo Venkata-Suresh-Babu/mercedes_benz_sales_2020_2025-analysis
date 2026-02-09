@@ -73,7 +73,8 @@ here balck color is on top and follows by Blue and Orange
 every year GLC model is on the top. 
 
 
-                                                                                    **......Thank you......**
+
+**......Thank you......**
 
 
 
