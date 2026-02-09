@@ -1,11 +1,15 @@
 # mercedes_benz_sales_2020_2025-analysis
 
 **Data Source:** Kaggle
+
+
 **Data source link:** https://www.kaggle.com/datasets/dhrubangtalukdar/mercedes-global-car-sales-2020-2025
 
 
 **Tech stack:** Python, NumPy, Pandas, Matplotlib, ploty, seaborn
-**Tools:** Google Antigravity
+
+
+**Tools:** Google Antigravity IDE
 
 Using panads accessed the csv file 
 performed data cleaning using pandas, removed duplicates and null values
