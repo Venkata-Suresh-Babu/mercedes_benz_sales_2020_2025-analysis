@@ -69,22 +69,35 @@ here balck color is on top and follows by Blue and Orange
 **Tubrocharger in cars**
 <img width="481" height="504" alt="image" src="https://github.com/user-attachments/assets/05dbfc87-8687-4edb-821a-a71e552e354c" />
 
+
+
+
 <img width="338" height="113" alt="image" src="https://github.com/user-attachments/assets/c322e733-c4eb-4956-a87e-f4643196acf6" />
 
 **Feature Correlation Heatmap**
 <img width="515" height="435" alt="image" src="https://github.com/user-attachments/assets/880a7e39-077f-478a-883c-bbbc6125e6cd" />
 
+
+
+
 There is a moderate relationship (0.44) between horsepower and price.
 
 Cars with more horsepower tend to cost more, but horsepower alone does not explain the price.
+
+
+
 
 **Avg. Horsepower as per model**
 
 <img width="1280" height="547" alt="image" src="https://github.com/user-attachments/assets/a643dd3a-6a26-46e5-9ed8-2d4160a740ca" />
 
 
+
+
 **Revenue model by year with year slicer**
 <img width="1763" height="550" alt="image" src="https://github.com/user-attachments/assets/37e79730-caac-4d00-95e6-08753a6606bb" />
+
+
 
 
 **Model-wise sales per year 2020 - 2025**
