@@ -4,7 +4,8 @@
 **Data source link:** https://www.kaggle.com/datasets/dhrubangtalukdar/mercedes-global-car-sales-2020-2025
 
 
-**Tech stack:** Pytho, NumPy, Pandas, Matplotlib, ploty, seaborn
+**Tech stack:** Python, NumPy, Pandas, Matplotlib, ploty, seaborn
+**Tools:** Google Antigravity
 
 Using panads accessed the csv file 
 performed data cleaning using pandas, removed duplicates and null values
