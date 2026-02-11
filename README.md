@@ -92,10 +92,6 @@ Cars with more horsepower tend to cost more, but horsepower alone does not expla
 <img width="1280" height="547" alt="image" src="https://github.com/user-attachments/assets/a643dd3a-6a26-46e5-9ed8-2d4160a740ca" />
 
 
-
-<img width="1280" height="547" alt="image" src="https://github.com/user-attachments/assets/2cc06dad-1825-4364-b4d0-610d907142d4" />
-
-
 **Revenue model by year with year slicer**
 <img width="1763" height="550" alt="image" src="https://github.com/user-attachments/assets/37e79730-caac-4d00-95e6-08753a6606bb" />
 
